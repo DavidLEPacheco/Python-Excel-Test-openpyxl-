@@ -1,7 +1,7 @@
 # Python-Excel-Test-openpyxl-
 A simple python program which reads data from an excel spreadsheet
 
-Make sure to change the directory name to the directory in which the excel spreadsheet "Test.xlsx" is located. If you clone this repository it will be in the same folder as the python program, but it can be any directory. The python and excel files do not need to be in the same folder.
+Make sure to change the directory name to the directory in which the excel spreadsheet "Test.xlsx" is located. If you clone this repository it will be in the same folder as the python program, but it can be any directory - the python and excel files do not need to be in the same folder.
 
 For this code to work, you will need openpyxl. To get it on windows:
 

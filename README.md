@@ -5,7 +5,7 @@ Make sure to change the directory name to the directory in which the excel sprea
 
 For this code to work, you will need openpyxl. To get it on windows:
 
-1. First Install pip. To do  this, go to https://bootstrap.pypa.io/get-pip.py
+1. First Install pip. To do  this, go to https://bootstrap.pypa.io/get-pip.py  (Make sure this is the latest version)
 2. Copy and paste the text into a text file, save it as get-pip.py
 3. Open cmd and browse to folder where get-pip.py is installed 
 4. Run the following command: python get-pip.py
